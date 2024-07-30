@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Manozzl
 - 👀 I’m interested in css, js and html 
 - 🌱 I’m currently learning css, html and c++ 
-- 📫 How to reach me via discord @_.manozzz._
 - 😄 Pronouns: Jesus/God
 - ⚡ Fun fact: Mohammed is a fake prophet!
